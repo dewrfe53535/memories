@@ -5,4 +5,7 @@
 # kirara
 中二时期的产物，源代码自己没有保留，但似乎有fork。芳文社手游的作弊工具，在官方AES加密后失效。
 # bilibangumi
-这玩意不宜过多的描述。在B站更改源站播放地址后失效。
+根据B站泄漏项目panda_master搞的一点小工具。在B站更改源站播放地址后失效。
+
+#fc2_dvdbd_restore
+爬取并还原https://dvdbd.wiki.fc2.com/ 的脚本，由于wiki已锁定，且数据已全部爬取完成，该脚本失效。
