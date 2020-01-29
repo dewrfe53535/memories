@@ -9,3 +9,6 @@
 
 # fc2_dvdbd_restore
 爬取并还原https://dvdbd.wiki.fc2.com/ 的脚本，由于wiki已锁定，且数据已全部爬取完成，该脚本失效。
+
+# majokoi.py
+将魔女恋爱日记PSV原本的nut翻译成renpy语言的脚本。renpy0基础，几乎是边查renpy文档边写的，因此到后来出现好几次拆东墙补西墙，埋地雷的情况。事后想来通过batch的特征分成几个块处理并且使用character类比较好。此脚本已不具有参考与使用意义。
