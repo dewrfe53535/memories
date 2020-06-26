@@ -9,7 +9,7 @@
 根据B站泄漏项目panda_master搞的一点小工具。在B站更改源站播放地址后失效。
 
 # fc2_dvdbd_restore
-爬取并还原https://dvdbd.wiki.fc2.com/ 的脚本，由于wiki已锁定，且数据已全部爬取完成，该脚本失效。
+爬取并还原https://dvdbd.wiki.fc2.com/ 的脚本，由于wiki已锁定，且数据已全部爬取完成，该脚本失效。应该可以在原网页的讨论版或者壁吧的某个帖子里找到下载地址。
 
 # majokoi.py
 将魔女恋爱日记PSV原本的nut翻译成renpy语言的脚本。renpy0基础，几乎是边查renpy文档边写的，因此到后来出现好几次拆东墙补西墙，埋地雷的情况。事后想来通过batch的特征分成几个块处理并且使用character类比较好。此脚本写的非常乱，已不具有参考与使用意义。
